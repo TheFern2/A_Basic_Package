@@ -1,8 +1,0 @@
-README.md
-setup.py
-awesome_package/__init__.py
-awesome_package/hello_world.py
-my_tool.egg-info/PKG-INFO
-my_tool.egg-info/SOURCES.txt
-my_tool.egg-info/dependency_links.txt
-my_tool.egg-info/top_level.txt
